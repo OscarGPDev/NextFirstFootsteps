@@ -20,7 +20,7 @@ export default function Page() {
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
-            <h1 className="text-blue-500">I'm blue!</h1>
+            <h1 className="text-blue-500">I&apos;m blue!</h1>
             <div className={styles.shape}/>
 
           </p>
